@@ -1,0 +1,6 @@
+#==============Library to install============
+pygame
+sys
+random
+datetime
+itertools
